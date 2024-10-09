@@ -59,15 +59,6 @@ const PhotoGallery = () => {
             </div>
           </Carousel.Item>
         </Carousel>
-
-        <div className="d-flex justify-content-between mt-3">
-          <Button variant="primary" onClick={() => carouselRef.current.prev()}>
-            &lt;
-          </Button>
-          <Button variant="primary" onClick={() => carouselRef.current.next()}>
-            &gt;
-          </Button>
-        </div>
       </div>
       <div className="col-md-5">
         <ButtonGroup />
