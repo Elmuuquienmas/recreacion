@@ -16,7 +16,3 @@ const MainContainer = () => {
 };
 
 export default MainContainer;
-// Esta bien profe me atrapo aqui tuve problemas, en el proyecto original el estado de las tarjetas que se recorrian digamos que fue
-// lo mas delicado de mantener o de modificar, puesto que desde un inicio fue una adaptacion este nuevo enfoque a las imagenes del
-//establecimiento como de las tarjetas recomendadas que podra encontrar en otro componente vienen mas de mi intento por modificar o
-// adaptar este componente
