@@ -34,9 +34,9 @@ const ButtonGroup = () => {
         rel="noopener noreferrer"
       >
         <img
-          src="/png-transparent-google-maps-2020-icon-hd-logo-thumbnail.png"
+          src="/alfiler.png"
           alt="Google Maps Logo"
-          style={{ width: "24px", marginRight: "10px" }}
+          style={{ width: "60px", marginRight: "10px" }}
         />
         Abrir en Google Maps
       </Button>
@@ -47,9 +47,9 @@ const ButtonGroup = () => {
         onClick={handleShow}
       >
         <img
-          src="/path-to-your-logo.png"
+          src="/menu.png"
           alt="Menu Logo"
-          style={{ width: "24px", marginRight: "10px" }}
+          style={{ width: "60px", marginRight: "10px" }}
         />
         Menú del local
       </Button>
